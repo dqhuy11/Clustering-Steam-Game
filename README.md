@@ -1,4 +1,3 @@
-README - Clustering Steam Game
 Đây là dự án phân cụm dữ liệu Steam Game sử dụng các kỹ thuật Machine Learning để nhóm các trò chơi có đặc điểm tương đồng.
 Danh sách tệp
 Clustering Steam Game/
